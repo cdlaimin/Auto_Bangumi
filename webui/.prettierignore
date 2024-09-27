@@ -1,0 +1,7 @@
+/build
+/dist
+/dev-dist
+/pnpm-lock.yaml
+auto-imports.d.ts
+components.d.ts
+router-type.d.ts
